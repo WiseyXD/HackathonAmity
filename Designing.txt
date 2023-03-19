@@ -1,0 +1,4 @@
+Headein and navbar color --  #0c2340
+background color -- #f4f4f4
+headings --poppins
+paragraph --roboto
