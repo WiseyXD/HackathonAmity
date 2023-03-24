@@ -68,8 +68,22 @@ a:hover
 {
     color: var(--accent-color-dark);
 }
+/* Admin button */
+.adminbutton
+{
+    position: absolute;
+    left: 92%;
+    top: 103%;
+    border: 1px solid #2294ed;
+    border-radius: 6px;
+    padding: 8px;
 
+}
 
+.adminbutton:hover{
+    background-color: #1d69a3;
+    color: white;
+}
 /* banner */
 .banner{
     background-color: white;
